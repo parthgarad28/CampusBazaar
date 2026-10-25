@@ -1,0 +1,6 @@
+{
+  "name": "Kitaab Kart - Campus Peer-to-Peer Marketplace",
+  "description": "Student-to-student marketplace in India for buying and selling second-hand books, topper notes, calculators, drafters, and hostel essentials directly on campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
