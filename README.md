@@ -6,7 +6,7 @@ Campus Bazaar is a student-to-student marketplace where school and college stude
 
 > Formerly known as *Kitaab Kart*.
 
-🔗 **Live demo:** https://your-live-link.vercel.app
+ **Live demo:** https://campus-bazaar-students-marketplace.ai.studio/
 
 ---
 
